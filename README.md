@@ -32,7 +32,8 @@ print(result, unans)
 
 
 # OUTPUT :
-#![7 th](https://github.com/ARUNKUMART9968/EX-7/assets/121215794/0f92b699-a4b9-4879-ab57-61691cae3eb0)
+![image](https://github.com/karthick960/EX-7/assets/121215938/aa8f13e1-a5fe-4a1f-a7a7-000ac09f3f21)
+
 
 
 
